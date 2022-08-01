@@ -1,8 +1,19 @@
-DIC PROJECT 
+Covid-19 Trend Analysis Project::::
+
+                                         **Short Summary**
+**Made COVID-19 prediction model using machine Learning in which we can predict number of Confirmed cases, Number of Recovered cases and
+Number of Deceased cases for various states by using Linear Regression and Polynomial Regression.
+Also Created the dashboard in Tableau Regarding the same.**
+
+
+
 Exploratory Data Analysis in Tableau (2022 Project)
+
 https://public.tableau.com/app/profile/shreyas.mishra6238/viz/COVID-19TrendAnalysis2020-21May2021_16369552873610/Dashboard1
+
+
 # Covid19_prediction_polynomial_regression
-It is a Covid Predictor ML model in which we can predict number of CONFIRMED cases, no. of Recovered cases & no.of Deceased cases for various states on the upcoming days, by using Linear Regression and Polynomial Regression.
+It is a Covid Predictor ML model in which we can predict no. of Confirmed cases, no. of Recovered cases & no.of Deceased cases for various states on the upcoming days, by using Linear Regression and Polynomial Regression.
 
 SAMPLE STATE MAHARASTRA
 
